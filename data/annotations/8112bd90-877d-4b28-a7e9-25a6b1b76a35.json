@@ -1,5 +1,1987 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "b3d8d7b7-a14c-480b-8f17-e50d64970889"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "c2e920c9-c4b4-4796-bd79-3f542a1d00fa"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "9ce8aa2a-299c-4ddc-bf51-ce799dd9af54"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "5940bfc7-f0dd-4172-8c8f-26bfdcf4e1d1"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "adb7d698-875b-4c1a-be87-bb8b339afca9"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "ae6b38e7-28cc-41f6-974e-4c2f0a0d1cff"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? You bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "21e6ec75-5499-48f6-b4d3-911aec75f1a3"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? You bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cf32a8bf-c058-4802-9afe-b37910b31dde"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "a8493f50-180f-46bd-a8e3-59fed82a50fd"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "a530e9f6-196c-411a-b75e-bd1311de7fae"
+    },
+    {
+      "start_time": 23,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "2bf04491-a15d-4b1b-9b7c-f2a3d602069c"
+    },
+    {
+      "start_time": 25,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        }
+      ],
+      "uuid": "cf4fd5a1-b46a-400c-b4bf-740303377ea5"
+    },
+    {
+      "start_time": 27,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? You bomb! You bomb them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "42c60e01-96aa-4d7f-957c-8bb96a060645"
+    },
+    {
+      "start_time": 29,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do? You bomb! You bomb them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "8d47b590-2c04-4d93-9127-ad81c000ca5a"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? We bomb! We bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        }
+      ],
+      "uuid": "7848191b-50ee-4204-94c1-cdf764ac75a5"
+    },
+    {
+      "start_time": 33,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? You bomb! You bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9c4164cf-5ab5-48d7-815d-61379de4d1b6"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whydja bomb? We didn’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "ad8e7180-50da-493b-96d1-23f838286be9"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whydja bomb? We didn’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "4bfbabd9-9e41-4e70-bf16-3c7810c7c24c"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whydja bomb? We didn’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "082b1e94-9468-4a32-8bee-b6188d4d2d4b"
+    },
+    {
+      "start_time": 42,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whydja bomb? We didn’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "67e83944-3a7d-4934-803a-19dffb9a619a"
+    },
+    {
+      "start_time": 44,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who said bomb? Who said we hadda bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "b7a5c002-5e71-40bd-955a-ab1d8ee9a8a6"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who said bomb? Who said we hadda bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        }
+      ],
+      "uuid": "47728a7a-edd4-44a6-a773-51cd121bac7f"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who said bomb? Who said we hadda bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Noise"
+        }
+      ],
+      "uuid": "f8a94bf6-9ee0-406d-a327-851a8b022d8b"
+    },
+    {
+      "start_time": 51,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who said bomb? Who said we hadda bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "d937dc63-5a94-4ded-bc67-35725c086737"
+    },
+    {
+      "start_time": 54,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wantsa bomb? We don’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "058d2f29-9ae0-4d5d-b9ab-0b0229538cbf"
+    },
+    {
+      "start_time": 56,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wantsa bomb? We don’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "e90322e8-e658-48b8-9fa3-507eb8168f53"
+    },
+    {
+      "start_time": 58,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wantsa bomb? We don’t wanna bomb! Who wantsa bomb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "20ca1fdc-fb68-4d73-a7f4-128be79df2b6"
+    },
+    {
+      "start_time": 62,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don’t wanna we don’t wanna we don’t wanna bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "a8e4b6a7-1176-48af-b3c5-de33ed9cffdc"
+    },
+    {
+      "start_time": 64,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wanteda bomb? Somebody musta wanteda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "c540c7bf-09b8-418b-bf17-0ddd42b0083d"
+    },
+    {
+      "start_time": 67,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wanteda bomb? Somebody musta wanteda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "e1e155e0-46cf-41e1-b132-4e9c21a70a90"
+    },
+    {
+      "start_time": 70,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wanteda bomb? Somebody musta wanteda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "53f2072f-5549-4c2e-94fd-fc8aee0cb9f9"
+    },
+    {
+      "start_time": 74,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who wanteda bomb? Somebody musta wanteda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "4b57b8b9-9aa5-4d39-a838-0fa0a23d5031"
+    },
+    {
+      "start_time": 77,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wanteda bomb! They neededa bomb! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "44b9e290-6606-41a5-bb72-cb7a50a0e93d"
+    },
+    {
+      "start_time": 81,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wanteda bomb! They neededa bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "171d38aa-fdc6-4aca-a2b7-16f0e48472a6"
+    },
+    {
+      "start_time": 84,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wanteda bomb! They neededa bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "99049b24-598d-4da1-b9b2-7855aecb214a"
+    },
+    {
+      "start_time": 87,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They thought they hadda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e1e67950-e686-47e5-8fb0-25546690291b"
+    },
+    {
+      "start_time": 88,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They thought they hadda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "e99840ef-6432-404f-be5b-7a56f4e00390"
+    },
+    {
+      "start_time": 90,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They thought they hadda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "1c1f20a7-4ce2-4dba-a9ae-279bd1030cb6"
+    },
+    {
+      "start_time": 92,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They thought they hadda bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "18d0ad59-1139-42ea-99ba-9851396d6e11"
+    },
+    {
+      "start_time": 94,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam said he hadda bomb! Bush said he better bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "8f637ffd-93bc-4739-b15d-cad40961dce1"
+    },
+    {
+      "start_time": 97,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam said he hadda bomb! Bush said he better bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "0a807002-f02e-4e9b-9b48-bb57fd4c04c4"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam said he hadda bomb! Bush said he better bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "2354be0d-ffb7-4906-8e4b-b2ffdda73915"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam said he hadda bomb! Bush said he better bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "2115a585-4551-477d-853d-05c4d55b2bc7"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatdid he say he better bomb for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "50ce49b6-9b7c-40a7-849a-96056aa1612e"
+    },
+    {
+      "start_time": 106,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatdid he say he better bomb for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "7da135ce-33be-4407-b2c4-fe437a87a381"
+    },
+    {
+      "start_time": 108,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatdid he say he better bomb for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "03d58d73-0788-4492-802c-6b89c6c03f21"
+    },
+    {
+      "start_time": 110,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatdid he say he better bomb for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "2bd42b89-fdad-46f8-874e-9b431d7043e1"
+    },
+    {
+      "start_time": 112,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hadda get ridda Saddam with a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "ae743805-555d-4f03-b8c6-e511076d202f"
+    },
+    {
+      "start_time": 114,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hadda get ridda Saddam with a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "aa0e75e4-9a30-4007-bcc8-aeb73a177592"
+    },
+    {
+      "start_time": 115,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hadda get ridda Saddam with a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "5e978d4d-e4ae-4307-83e0-2303d60d89e6"
+    },
+    {
+      "start_time": 117,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hadda get ridda Saddam with a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "35923cce-fb3a-4d74-97be-c00382a1110f"
+    },
+    {
+      "start_time": 119,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam’s still there building a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "10247605-ed8b-461d-8f0d-5066295530f5"
+    },
+    {
+      "start_time": 121,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam’s still there building a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ea33d285-47e9-497f-8335-c3e49a52532b"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam’s still there building a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "b6308bac-a768-459e-888b-9f3750adeca3"
+    },
+    {
+      "start_time": 125,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saddam’s still there building a bomb!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        }
+      ],
+      "uuid": "44a297fc-29f2-49fa-87ab-96829b105cbb"
+    },
+    {
+      "start_time": 127,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon did the job"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "5ce42d69-8421-48a7-acbb-dfb76545f62d"
+    },
+    {
+      "start_time": 131,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhyme"
+        }
+      ],
+      "uuid": "22ad9e94-5e32-44b1-89c3-aa096b661aeb"
+    },
+    {
+      "start_time": 135,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon did the job"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "e0c6f89c-f10c-40c8-bd70-5f5e4de7e3bc"
+    },
+    {
+      "start_time": 138,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "68dbced1-170f-493c-b9a9-b8bcb7e8726c"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "5d987bb9-700f-4a91-aa02-e440e130c792"
+    },
+    {
+      "start_time": 146,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon does the job"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "80f5c850-4b55-44e0-8412-995d5c8bef4d"
+    },
+    {
+      "start_time": 148,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "dd21f575-e123-4565-b511-d1e81061edd1"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon does the job"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "4ecffd98-0309-4ac8-9a1e-8f2897ed5fad"
+    },
+    {
+      "start_time": 153,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon for the mob\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhyme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "a0889459-901c-4106-9674-e5e94eec78c7"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "5c5132ef-95ee-4054-8d27-a6b8a09ecd41"
+    },
+    {
+      "start_time": 160,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon for the mob\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "33443863-379c-4842-a619-bec6d165aead"
+    },
+    {
+      "start_time": 161,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "053e78ae-424a-4125-98c9-35a030934407"
+    },
+    {
+      "start_time": 165,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "36810296-09de-42c3-a933-30c73f57562d"
+    },
+    {
+      "start_time": 168,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog & Magog Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "06f3e529-5e54-451d-8246-ce6f8d6b5b6b"
+    },
+    {
+      "start_time": 172,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog Magog Gog Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "7d0825f6-aa4f-4ccc-8703-79af21402821"
+    },
+    {
+      "start_time": 175,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gog Magog Gog Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "bd974e79-c243-44ff-b802-3d7d7e169714"
+    },
+    {
+      "start_time": 178,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ginsberg says Gog & Magog"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Timbre"
+        }
+      ],
+      "uuid": "827e8bfe-f074-42fb-981d-736d722c1e59"
+    },
+    {
+      "start_time": 181,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armageddon did the job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "999f7067-e4e7-4fd4-a32d-002eedb33ac7"
+    }
+  ],
   "set": "Default",
   "event_id": "bd257c47-e2a5-4d6e-9ef3-f952d2ed4d27",
   "source_id": "24f1866d-9dd2-4734-bac9-59ecf03bef76"
