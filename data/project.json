@@ -4,7 +4,23 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "AVAnnotate",
     "is_private": false,
@@ -22,6 +38,27 @@
       "tags": []
     },
     "created_at": "2025-08-12T15:47:20.027Z",
-    "updated_at": "2025-08-12T15:47:20.027Z"
-  }
+    "updated_at": "2025-08-12T15:47:20.027Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "2975fa30-6e84-417e-8baf-29ab043aebe3": {
+      "content": [],
+      "created_at": "2025-08-12T15:47:20.066Z",
+      "created_by": "saamturner",
+      "title": "August Anth Testing",
+      "updated_at": "2025-08-12T15:47:20.066Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "2975fa30-6e84-417e-8baf-29ab043aebe3"
+  ]
 }
